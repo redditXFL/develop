@@ -1,2 +1,2 @@
-# develop
-developing and testing for XFL sub
+# front-end
+CSS for the subreddit
